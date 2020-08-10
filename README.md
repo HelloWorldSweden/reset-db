@@ -1,1 +1,1 @@
-# reset-db
+# Reset
